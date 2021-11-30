@@ -1,2 +1,2 @@
 # collector
-collects words
+collect words
